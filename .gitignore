@@ -1,0 +1,4 @@
+.vscode
+tags
+__pycache__
+*.ckpt
